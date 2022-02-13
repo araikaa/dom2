@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="keywords" content="registration form" />
+<meta name="description" content="registration form. " />
+<title>registration form</title>
+<link rel="stylesheet" href="styles.css">
+<script src="sample-registration-form.js"></script>
+</head>
+<body>
+<h1>Registration Form</h1>
+<ul>
+    <li><label for="username">Username:</label></li>
+<li><input type="text" name="username" size="50" /></li>
+<li><label for="passid">Password:</label></li>
+<li><input type="password" name="passid" size="12" /></li>
+<li><label for="passid">Confirm Password:</label></li>
+<li><input type="password" name="passid" size="12" /></li>
+<li><input type="submit" name="Register" value="Register" /></li>
+</ul>
+</body>
+</html>
